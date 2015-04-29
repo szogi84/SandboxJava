@@ -13,4 +13,8 @@ public class BlackCartridge implements ICartridge {
     public String toString(){
         return "BlackWhite!";
     }
+
+    public String printColor() {
+        return printColor();
+    }
 }
